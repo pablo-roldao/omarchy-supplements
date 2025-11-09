@@ -10,3 +10,4 @@
 . ./fix-and-create-desktop-apps.sh
 . ./install-python-latest.sh
 . ./override-screensaver.sh
+. ./install-jupyterlab.sh
