@@ -9,3 +9,4 @@
 . ./remove-webapps.sh
 . ./fix-and-create-desktop-apps.sh
 . ./install-python-latest.sh
+. ./override-screensaver.sh
