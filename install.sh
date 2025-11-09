@@ -11,3 +11,4 @@
 . ./install-python-latest.sh
 . ./override-screensaver.sh
 . ./install-jupyterlab.sh
+. ./install-phpstorm.sh
