@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=LinkedIn
+Comment=LinkedIn
+Exec=omarchy-launch-webapp https://linkedin.com --default-profile="Default"
+Terminal=false
+Type=Application
+Icon=/home/pablo/.local/share/applications/icons/Linkedin.png
+StartupNotify=true
