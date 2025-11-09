@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Datacamp
+Comment=Datacamp
+Exec=omarchy-launch-webapp https://app.datacamp.com --default-profile="Default"
+Terminal=false
+Type=Application
+Icon=/home/pablo/.local/share/applications/icons/Datacamp.png
+StartupNotify=true
