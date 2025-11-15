@@ -2,7 +2,7 @@
 Version=1.0
 Name=WhatsApp
 Comment=WhatsApp
-Exec=omarchy-launch-webapp https://web.whatsapp.com/ --default-profile="Default"
+Exec=omarchy-launch-webapp https://web.whatsapp.com/ --profile-directory="Default"
 Terminal=false
 Type=Application
 Icon=/home/pablo/.local/share/applications/icons/WhatsApp.png
