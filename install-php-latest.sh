@@ -1,5 +1,5 @@
 #!/bin/sh
 
-sudo pacman -Syu --noconfirm --needed autoconf bison base-devel curl gettext git gd libcurl-compat libedit icu libjpeg-turbo mariadb-libs oniguruma libpng postgresql-libs readline sqlite openssl pkgconf re2c zlib libxml2 libzip
-mise install php@latest
-mise use --global php@latest
+sudo pacman -S --noconfirm --needed base-devel openssl zlib bzip2 readline sqlite curl llvm libffi tk re2c gd libpng libjpeg-turbo freetype2 libwebp libxpm
+mise plugin add php https://github.com/asdf-community/asdf-php.git
+mise use -g php@latest
